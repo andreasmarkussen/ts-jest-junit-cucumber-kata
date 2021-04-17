@@ -1,6 +1,6 @@
 # TypeScript & Jest Task 
 
-This is a small Kata task to show to practice your TDD Skills using 
+This is a small Kata task to help you practice your TDD skills using 
 TypeScript and Jest
 
 ## The Tasks
