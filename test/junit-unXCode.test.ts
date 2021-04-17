@@ -1,4 +1,4 @@
-import * as juuxc from './junit-unXCode';
+import * as juuxc from '../src/junit-unXCode';
 
 test("Should be able to take an xcodeJUnitName and make it 'Space Cased'", ()=>{
   const jUnitName="Hello World Test Case";

@@ -1,25 +1,28 @@
-# ts-jest-starter
-typescript + jest: ts-node + ts-jest
+# TypeScript & Jest Task 
 
-$ npm i # everything installs etc
+This is a small Kata task to show to practice your TDD Skills using 
+TypeScript and Jest
 
-$ npm start
+## The Tasks
 
-> ts-node-jest-starter@0.0.1 start C:\Users\sz\Dropbox\code\node\ts-jest-starter
-> node node_modules/ts-node/dist/bin.js ./src/index.ts
+* Read [JUnit-XCode-Cucumber-Name-Task.MD](JUnit-XCode-Cucumber-Name-Task.MD)
+## Getting started
 
-it works ;)
+Install NodeJS 14
+Install VSCode 
 
-$ npm test
+Install the code 
 
-> ts-node-jest-starter@0.0.1 test C:\Users\sz\Dropbox\code\node\ts-jest-starter
-> jest
+    $ npm i # everything installs etc
 
- PASS  test/example.test.ts
-  √ Example unit test (4ms)
+See that it works
 
-Test Suites: 1 passed, 1 total
-Tests:       1 passed, 1 total
-Snapshots:   0 total
-Time:        1.977s, estimated 2s
-Ran all test suites.
+    $ npm test
+
+Please do not post your solutions on public git repositories
+
+Send your files via email to andreas.markussen@gmail.com
+
+Happy coding, 
+
+Andreas Markussen
